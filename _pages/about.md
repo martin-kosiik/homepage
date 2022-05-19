@@ -16,4 +16,4 @@ My research interests include
 - Machine learning and big data
  
 
-You can download my CV [here](https://martin-kosiik.github.io/homepage/files/Kosik_Martin_CV.pdf)
+You can download my CV [here](https://martin-kosiik.github.io/homepage/files/Kosik_Martin_CV.pdf).
