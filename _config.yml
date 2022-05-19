@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Martin Kosík"
-  avatar           : "profile.png"
+  avatar           : "/files/avatar.jpg"
   bio              : "Economics PhD student"
   location         : "Prague"
   employer         : "CERGE-EI"
