@@ -1,16 +1,14 @@
 ---
-layout: archive
-title: "Research"
+title: Research
 permalink: /research/
-author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Working papers
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Ethnic Procurement**  
+  (with Vasily Korovkin and Pasha Andreyanov)  
+  The role of ethnic ties in Russian public procurement auctions
+  Large database of 20 million purchases with information on prices, detailed product categories, bureaucrats etc.
+  Ethnicity of bureaucrats and firm managers is predicted from surnames using a specialized neural network
+
