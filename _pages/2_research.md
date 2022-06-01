@@ -23,9 +23,3 @@ permalink: /research/
 *[OSF registration](https://osf.io/49tjx)*, *[Pre-analysis plan](https://osf.io/rwt9p)*
 - I plan to use administrative and census data to estimate the effects of DEVTA trial on school enrollment and academic achievement 
 - DEVTA trial was a large-scale experiment in India which randomized vitamin A supplemtation and deworming treatment to pre-school children to study the effects on health outcomes (see [Awasthi et al. 2012a](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)62125-4/fulltext?version=printerFriendly) and [Awasthi et al. 2012b](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)62126-6/fulltext))
-
-**Advanced Neural Networks Architectures for Solving Heterogeneous Agent Models**  
-  (with Jan Žemlička)  
-  - We propose to employ deep lattice networks to develop a modification of the continuous-time value iteration scheme to solve complex incomplete market models
-  - The proposed method is explicitly designed to address challenges that arise in the process of approximating high dimensional distributions and value functions
-
