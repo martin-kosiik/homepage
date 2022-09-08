@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am a PhD student of economics at CERGE-EI in Prague visiting Kellogg School of Management (Northwestern University) for the fall of 2022.  
+Welcome to my website. I am a PhD student of economics at [CERGE-EI](https://www.cerge-ei.cz/) in Prague visiting Kellogg School of Management (Northwestern University) for the fall semester of 2022.  
 
 
 My research interests include
