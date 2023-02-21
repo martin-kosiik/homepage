@@ -13,7 +13,7 @@ permalink: /research/
 
 
 **Optimal Targeting of Interventions to Reduce Air Pollution**  
-*[slides](https://martin-kosiik.github.io/homepage/files/slides/air_pollution.pdf) (very preliminary - do not cite)*
+*[draft](https://martin-kosiik.github.io/homepage/files/drafts/air_pollution_draft.pdf), [slides](https://martin-kosiik.github.io/homepage/files/slides/air_pollution.pdf) (very preliminary - do not cite)*
   - I apply air pollution transport modelling (HYSPLIT) to compute the average population exposure to pollution caused by crop residue burning across different locations in North India
   - The results will be used to calculate spatially optimal policy for targeting of interventions to reduce crop residue burning
 
